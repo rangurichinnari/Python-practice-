@@ -8,3 +8,5 @@ printf("%d \n",i);
 }
 return 0;
 }
+
+// Program: Print numbers from 1 to 4 using for loop//
