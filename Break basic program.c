@@ -15,4 +15,4 @@ return 0;
 
 //Program: Print numbers from 1 to 4 using break statement//
 
-// if you want to print 5 then break after the statement//
+/ if you want to print 5 then break after the statement/
