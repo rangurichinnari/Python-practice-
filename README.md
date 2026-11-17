@@ -1,15 +1,23 @@
-# Python-practice-
+#Coding-practice-
 Hi ,I am a first year Bsc Computer Science student learning programming. 
 
-This repository contains my beginner python practice programs.
+This repository contains my beginner python and c practice programs.
+
+## C programs 
+  - Loops
+  - Conditions 
+  - Functions 
+  - Arrays
+  - Pointers
 
 ## What I am learning 
    - Python basics 
    - Loops and conditions 
    - Functions
-   - Git and Github 
+   - Small projects 
 
 ## Projects 
   - Hello world
   - Calculator 
   - Number guessing game
+ 
